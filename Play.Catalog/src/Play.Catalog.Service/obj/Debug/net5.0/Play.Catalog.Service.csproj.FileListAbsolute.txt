@@ -5,6 +5,7 @@ G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.json
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.runtimeconfig.dev.json
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.dll
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ref\Play.Catalog.Service.dll
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.pdb
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.OpenApi.dll
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -22,7 +23,6 @@ G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.RazorTargetAssemblyInfo.cache
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CopyComplete
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.dll
-G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\refint\Play.Catalog.Service.dll
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
-G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
