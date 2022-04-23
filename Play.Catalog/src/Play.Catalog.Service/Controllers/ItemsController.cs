@@ -24,9 +24,14 @@ namespace Play.Catalog.Service.Controllers
         }
 
         [HttpGet("{id}")]
-        public ItemDto GetById(Guid id)
+        public ActionResult<ItemDto> GetById(Guid id)
         {
             var item = _items.FirstOrDefault(x => x.Id == id);
+
+            if (item == null)
+            {
+	            return NotFound();
+            }
 
             return item;
         }
@@ -67,6 +72,12 @@ namespace Play.Catalog.Service.Controllers
         public IActionResult Delete(Guid id)
         {
 	        var index = _items.FindIndex(x => x.Id == id);
+
+	        if (index < 0)
+	        {
+		        return NotFound();
+	        }
+
             _items.RemoveAt(index);
 
             return NoContent();
