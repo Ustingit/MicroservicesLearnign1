@@ -6,15 +6,15 @@ using Play.Catalog.Service.Entities;
 
 namespace Play.Catalog.Service.Repositories
 {
-	public interface IItemsRepository
+	public interface IRepository<T> where T : IEntity
 	{
-		Task<IReadOnlyCollection<Item>> GetAllAsync();
+		Task<IReadOnlyCollection<T>> GetAllAsync();
 
-		Task<Item> GetAsync(Guid id);
+		Task<T> GetAsync(Guid id);
 
-		Task CreateAsync(Item entity);
+		Task CreateAsync(T entity);
 
-		Task UpdateAsync(Item entity);
+		Task UpdateAsync(T entity);
 
 		Task DeleteAsync(Guid id);
 	}
