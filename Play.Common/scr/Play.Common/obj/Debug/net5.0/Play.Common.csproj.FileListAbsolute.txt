@@ -1,0 +1,12 @@
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\bin\Debug\net5.0\Play.Common.deps.json
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\bin\Debug\net5.0\Play.Common.dll
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\bin\Debug\net5.0\Play.Common.pdb
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.csproj.AssemblyReference.cache
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfoInputs.cache
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfo.cs
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.csproj.CoreCompileInputs.cache
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.dll
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\refint\Play.Common.dll
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.pdb
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\ref\Play.Common.dll
