@@ -44,9 +44,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "MongoDB.Driver": {
+            "Play.Common": {
               "target": "Package",
-              "version": "[2.15.0, )"
+              "version": "[1.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
