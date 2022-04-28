@@ -32,20 +32,43 @@ namespace Play.Inventory.Service
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMongo().AddMongoRepository<InventoryItem>("inventoryitems");
+
+            var jitterer = new Random();
+
             services.AddHttpClient<CatalogClient>(client =>
             {
                 client.BaseAddress = new Uri("https://localhost:44363");
             })
             .AddTransientHttpErrorPolicy(builder => builder.Or<TimeoutRejectedException>().WaitAndRetryAsync(
                 5,
-                retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt)),
-                onRetry: (outcome, timespan, retryAttempt) => {
+                retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt)) + TimeSpan.FromMilliseconds(jitterer.Next(0, 1000)),
+                onRetry: (outcome, timespan, retryAttempt) =>
+                {
                     //don't do that on production, just to check
                     var serviceProvider = services.BuildServiceProvider();
                     serviceProvider.GetService<ILogger<CatalogClient>>()?
                         .LogWarning($"Delaying for {timespan.TotalSeconds} sec., then making retry {retryAttempt}.");
                 }
             ))
+            .AddTransientHttpErrorPolicy(builder =>
+            {
+                return builder.Or<TimeoutRejectedException>().CircuitBreakerAsync(
+                                3,
+                                TimeSpan.FromSeconds(15),
+                                onBreak: (outcome, timespan) =>
+                                {
+                                    //don't do that on production, just to check
+                                    var serviceProvider = services.BuildServiceProvider();
+                                    serviceProvider.GetService<ILogger<CatalogClient>>()?.LogWarning($"Opening the curcuit for {timespan.TotalSeconds} seconds...");
+                                },
+                                onReset: () =>
+                                {
+                                    //don't do that on production, just to check
+                                    var serviceProvider = services.BuildServiceProvider();
+                                    serviceProvider.GetService<ILogger<CatalogClient>>()?.LogWarning($"Closing the circuit.");
+                                }
+                            );
+            })
             .AddPolicyHandler(Policy.TimeoutAsync<HttpResponseMessage>(1));
 
             services.AddControllers();
