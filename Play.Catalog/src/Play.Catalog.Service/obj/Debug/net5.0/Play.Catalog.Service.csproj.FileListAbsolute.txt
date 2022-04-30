@@ -1,9 +1,3 @@
-G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
-G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfoInputs.cache
-G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfo.cs
-G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CoreCompileInputs.cache
-G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
-G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.Development.json
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\appsettings.json
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Service.exe
@@ -56,6 +50,12 @@ G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Contracts.dll
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Contracts.pdb
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.AssemblyReference.cache
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfoInputs.cache
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.AssemblyInfo.cs
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.csproj.CoreCompileInputs.cache
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cs
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.MvcApplicationPartsAssemblyInfo.cache
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\scopedcss\bundle\Play.Catalog.Service.styles.css
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\Play.Catalog.Service.StaticWebAssets.Manifest.cache
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.RazorTargetAssemblyInfo.cache

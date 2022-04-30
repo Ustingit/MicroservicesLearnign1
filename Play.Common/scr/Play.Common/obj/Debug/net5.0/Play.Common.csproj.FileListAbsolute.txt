@@ -7,6 +7,6 @@ G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\o
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.AssemblyInfo.cs
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.csproj.CoreCompileInputs.cache
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.dll
-G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\refint\Play.Common.dll
-G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.pdb
 G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\ref\Play.Common.dll
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\Play.Common.pdb
+G:\LEARNING\NET\Microservices\MicroservicesByCasal\Play.Common\scr\Play.Common\obj\Debug\net5.0\refint\Play.Common.dll
