@@ -1660,7 +1660,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "G:\\LEARNING\\NET\\Microservices\\MicroservicesByCasal\\Play.Common\\scr\\Play.Common\\Play.Common.csproj",
       "projectName": "Play.Common",
