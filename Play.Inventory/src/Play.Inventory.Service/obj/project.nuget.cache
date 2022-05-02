@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MBuBCU0J5TxMbazv+TfHxwANLQYRKDPRCRwYHIjkCwXhzRqp1+hfPQKgDuJkppqacdtlWcRpZSpq2sfj8k3W5w==",
+  "dgSpecHash": "6UG6V4OYLYAhS+oFVFHJsvGyKY0K+xGceS9xiUXT/itsd4+HFbhWLrYk6giYs4vF3llAlsqkUFLCi9PzDGM9dw==",
   "success": true,
-  "projectFilePath": "g:\\LEARNING\\NET\\Microservices\\MicroservicesByCasal\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
+  "projectFilePath": "G:\\LEARNING\\NET\\Microservices\\MicroservicesByCasal\\Play.Inventory\\src\\Play.Inventory.Service\\Play.Inventory.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ustin\\.nuget\\packages\\automatonymous\\5.1.3\\automatonymous.5.1.3.nupkg.sha512",
     "C:\\Users\\ustin\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
